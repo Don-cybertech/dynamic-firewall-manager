@@ -84,16 +84,17 @@ The system scans logs and detects malicious activities
 
 Identified attacks:
 
-Brute force attack
+-Brute force attack
 
-Port scanning
+-Port scanning
 
 Automatically blocks malicious IP addresses
 
 Select option: 2
 
-Blocked IPs:
+## Blocked IPs:
 192.168.1.20
+
 45.33.21.9
 
 📋 Visibility
