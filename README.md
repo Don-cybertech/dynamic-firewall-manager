@@ -72,9 +72,11 @@ Select option: 1
 [LOG ANALYSIS STARTED]
 
 [ALERT] Brute force detected from 192.168.1.20
+
 [FIREWALL] BLOCKED IP: 192.168.1.20
 
 [ALERT] Port scan detected from 45.33.21.9
+
 [FIREWALL] BLOCKED IP: 45.33.21.9
 
 ## 🔍 Detection & Response
