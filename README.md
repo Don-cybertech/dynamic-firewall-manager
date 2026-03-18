@@ -102,7 +102,9 @@ Select option: 2
 Displays all blocked IP addresses
 
 Helps track active threats
+
 Select option: 3
+
 Enter IP to unblock: 45.33.21.9
 
 [FIREWALL] UNBLOCKED IP: 45.33.21.9
