@@ -62,24 +62,61 @@ Alerts are generated for monitoring
 
 ▶️ How to Run
 
-Clone the repository:
-
 git clone https://github.com/Don-cybertect/dynamic-firewall-manager.git
 
 Navigate to the project folder:
 
-cd dynamic-firewall-manager
+cd dynamic-firewall-manage
 
-Run the script:
+Below is an example of how the system detects and responds to threats in real time:
+## Sample Output(Demo)
+==== Dynamic Firewall Manager ====
+1. Analyze Logs
+2. Show Blocked IPs
+3. Unblock IP
+4. Exit
+Select option: 1
 
-python firewall_manager.py
-🧪 Sample Log Format
-192.168.1.10 - Failed login attempt
-10.0.0.5 - Multiple requests detected
-172.16.0.2 - Suspicious activity detected
-🎯 Use Case (SOC Perspective)
+[LOG ANALYSIS STARTED]
 
-This project simulates how SOC analysts:
+[ALERT] Brute force detected from 192.168.1.20
+[FIREWALL] BLOCKED IP: 192.168.1.20
+
+[ALERT] Port scan detected from 45.33.21.9
+[FIREWALL] BLOCKED IP: 45.33.21.9
+
+## 🔍 Detection & Response
+The system scans logs and detects malicious activities
+
+Identified attacks:
+
+Brute force attack
+
+Port scanning
+
+Automatically blocks malicious IP addresses
+
+Select option: 2
+
+Blocked IPs:
+192.168.1.20
+45.33.21.9
+📋 Visibility
+
+Displays all blocked IP addresses
+
+Helps track active threats
+Select option: 3
+Enter IP to unblock: 45.33.21.9
+
+[FIREWALL] UNBLOCKED IP: 45.33.21.9
+🔓 Manual Control
+
+Allows analysts to unblock IPs
+
+Useful for handling false positives or restoring acces
+
+## This project simulates how SOC analysts:
 
 Monitor logs for threats
 
@@ -89,19 +126,8 @@ Automatically respond to incidents
 
 Reduce response time using automation
 
-📈 Future Improvements
-
-Integrate with real firewall APIs (e.g., iptables, Windows Firewall)
-
-Add machine learning for threat detection
-
-Build a dashboard using Streamlit
-
-Connect to a SIEM system
-
 👤 Author
-
-Your Name: Egwu Donatus Achema
+Egwu Donatus Achema
 GitHub: https://github.com/Don-cybertect
 LinkDin: 
 
