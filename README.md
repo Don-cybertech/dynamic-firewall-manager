@@ -38,14 +38,6 @@ Regular Expressions (Regex)
 
 Logging module
 
-📂 Project Structure
-dynamic-firewall-manager/
-│── firewall_manager.py
-│── logs.txt
-│── blocked_ips.txt
-│── README.md
-⚙️ How It Works
-
 The system reads incoming logs from a file
 
 It analyzes the logs for suspicious activity
@@ -101,6 +93,7 @@ Select option: 2
 Blocked IPs:
 192.168.1.20
 45.33.21.9
+
 📋 Visibility
 
 Displays all blocked IP addresses
@@ -125,6 +118,16 @@ Identify malicious behavior
 Automatically respond to incidents
 
 Reduce response time using automation
+## 📸 Live Demo
+
+### 🔍 Threat Detection
+![Detection](screenshots/detection.png)
+
+### 🔥 Firewall Blocking
+![Blocking](screenshots/blocking.png)
+
+### 📋 Blocked IP List
+![Blocked](screenshots/blocked.png)
 
 👤 Author
 Egwu Donatus Achema
