@@ -135,9 +135,10 @@ Reduce response time using automation
 ### 📋 Blocked IP List
 ![Blocked](screenshots/blocked.png)
 
-👤 Author
-Egwu Donatus Achema
+👤 Author:Egwu Donatus Achema
+
 GitHub: https://github.com/Don-cybertect
+
 LinkDin: 
 
 ⭐ Contribute
