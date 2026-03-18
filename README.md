@@ -108,6 +108,7 @@ Select option: 3
 Enter IP to unblock: 45.33.21.9
 
 [FIREWALL] UNBLOCKED IP: 45.33.21.9
+
 🔓 Manual Control
 
 Allows analysts to unblock IPs
