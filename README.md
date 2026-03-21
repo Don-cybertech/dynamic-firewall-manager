@@ -6,15 +6,15 @@ The Dynamic Firewall Rule Manager is a cybersecurity automation tool built with 
 
 This project demonstrates real-world blue team skills such as:
 
-Log analysis
+-Log analysis
 
-Threat detection
+-Threat detection
 
-Automated response
+-Automated response
 
-Incident handling
+-Incident handling
 
-🚀 Features
+# 🚀 Features
 
 ✅ Real-time log monitoring
 
@@ -28,7 +28,7 @@ Incident handling
 
 ✅ Simulation of SOC response workflow
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python 3
 
@@ -82,7 +82,7 @@ Select option: 1
 ## 🔍 Detection & Response
 The system scans logs and detects malicious activities
 
-Identified attacks:
+# Identified attacks:
 
 -Brute force attack
 
@@ -109,7 +109,7 @@ Enter IP to unblock: 45.33.21.9
 
 [FIREWALL] UNBLOCKED IP: 45.33.21.9
 
-🔓 Manual Control
+# 🔓 Manual Control
 
 Allows analysts to unblock IPs
 
@@ -135,7 +135,11 @@ Reduce response time using automation
 ### 📋 Blocked IP List
 ![Blocked](screenshots/blocked.png)
 
-👤 Author:Egwu Donatus Achema
+# 👤 Author:
+
+Egwu Donatus Achema
+
+cybersecurity analyst/Python Developer 
 
 GitHub: https://github.com/Don-cybertect
 
@@ -143,8 +147,8 @@ LinkDin:
 
 ⭐ Contribute
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and future requests are welcome!
 
-📜 License
+# 📜 License
 
 This project is open-source and available under the MIT License.
