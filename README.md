@@ -20,11 +20,11 @@
 ### 1. Blocking an IP
 ![Block](screenshots/01_block.png)
 
-### 2. Firewall status dashboard
-![Status](screenshots/02_status.png)
+### 2. Auto-block monitor
+![Monitor](screenshots/02_monitor.png)
 
-### 3. Auto-block monitor
-![Monitor](screenshots/03_monitor.png)
+### 3. Firewall status dashboard
+![Status](screenshots/03_status.png)
 
 ---
 
