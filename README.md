@@ -154,13 +154,13 @@ python firewall_manager.py log
 
 cybersecurity Analyst | Python Developer
 
-GitHub: @Don-cybertech
+GitHub: github.com/Don-cybertech)
 
 LinkedIn: (https://www.linkedin.com/in/egwu-donatus-achema-8a9251378/)
 
 Gmail: (donatusachema@gmail.com)
 
-Part of: [Cybersecurity Portfolio(github.com/Don-cybertech)]
+Part of: Cybersecurity Portfolio
 
 
 
