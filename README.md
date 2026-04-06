@@ -149,7 +149,8 @@ python firewall_manager.py log
 ---
 
 ## 👨‍💻 Author
-Egwu Donatus Achema
+
+## Egwu Donatus Achema
 
 cybersecurity Analyst | Python Developer
 
@@ -159,7 +160,7 @@ LinkedIn: (https://www.linkedin.com/in/egwu-donatus-achema-8a9251378/)
 
 Gmail: (donatusachema@gmail.com)
 
-Part of: Cybersecurity Portfolio(github.com/Don-cybertech)
+Part of: [Cybersecurity Portfolio(github.com/Don-cybertech)]
 
 
 
