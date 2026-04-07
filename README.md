@@ -149,9 +149,14 @@ python firewall_manager.py log
 ---
 
 ## 👨‍💻 Author:
+## Egwu Donatus Achema
 
+Cybersecurity Analyst | Python Developer
 
+ -GitHub: [@Don-cybertech](https://github.com/Don-cybertech) 
 
+ -LinkedIn: (https://www.linkedin.com/in/egwu-donatus-achema-8a9251378/)
 
-**D* — [@Don-cybertech](https://github.com/Don-cybertech)  
-Cybersecurity Student | Python Security Tools Portfolio
+ -Gmail: (donatusachema@gmail.com)
+
+Part of: Cybersecurity Portfolio
